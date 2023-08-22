@@ -47,8 +47,7 @@ This project is designed to understand the factors that lead a person to leave t
 statsmodel 
 
 ## Data Description
-The CSV consists of around 2000 rows and 16 columns in the [dataset](https://github.com/diegovillatoromx/logistic_regresion_model/blob/main/Data/data_regression.csv)
-
+The CSV consists of around 2000 rows and 16 columns in the [dataset](https://github.com/diegovillatoromx/Strategic_Workforce_Analysis_Predicting_Job_Transition/blob/main/input/DS_Job_Change_Data.csv).
 ### Features:
 - Year
 - Customer_id - unique id
