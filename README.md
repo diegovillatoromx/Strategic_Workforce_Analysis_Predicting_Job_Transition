@@ -84,8 +84,8 @@ The CSV consists of around 2000 rows and 16 columns in the [dataset](https://git
               |_train_model.py
               |_utils.py
 
-  lib
-    |_logistic_regresion.ipynb
+  
+  hiring_data_scientists.ipynb
 
   output
     |_adjusted_model.pkl
