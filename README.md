@@ -100,5 +100,5 @@ The CSV consists of around 2000 rows and 16 columns in the [dataset](https://git
 ```
 
 ## Complete Tutorial
-I have created a detailed [notebook](https://github.com/diegovillatoromx/linear_regresion_with_python/blob/main/linear_regresion.ipynb) tutorial for this project, where you will execute everything from start to end.
+I have created a detailed [notebook](https://github.com/diegovillatoromx/Strategic_Workforce_Analysis_Predicting_Job_Transition/blob/main/hiring_data_scientists.ipynb) tutorial for this project, where you will execute everything from start to end.
 
